@@ -1,0 +1,197 @@
+body{
+margin: 0;
+padding: 0;
+text-align: center;
+}
+nav{
+  background-color: #3b6978;
+  overflow: auto;
+  height: 200px;
+}
+.logo{
+  height: 200px;
+  float: left;
+  margin-left: 100px;
+}
+ul{
+  margin: 60px;
+  padding: 0;
+  list-style: none;
+}
+li{
+  float: right;
+  right: 100px;
+}
+.alh{
+  font-size: 35px;
+  width: auto;
+}
+nav a{
+  margin-right: 80px;
+  width: 150px;
+  display: block;
+  text-decoration: none;
+  font-size: 26px;
+  color: white;
+  padding: 20px 10px;
+  font-family: arial
+}
+nav a:hover{
+  background: skyblue;
+  color: orange;
+
+}
+.top-container{
+position: relative;
+}
+.contact{
+  position: absolute;
+  color: #fa7d09;
+  font-size: 30px;
+  right: 200px;
+  top: 100px;
+}
+h1{
+  position: absolute;
+  left: 40%;
+  top: 400px;
+  font-size: 100px;
+ font-family:  monospace;
+ font-style: oblique;
+ color: #fa7d09;
+}
+.pencil{
+ width: 100%;
+}
+.tagline{
+ position: absolute;
+  font-size: 50px;
+  left: 60%;
+  top: 600px;
+  color: #4a3f35;
+}
+.Code{
+  position: absolute;
+}
+.middle-container{
+margin: 90px 0 90px 0;
+}
+.text{
+  font-size: 40px;
+}
+h2.second{
+  font-size: 65px;
+  font-weight: bold;
+}
+.bulb{
+  float: left;
+  margin-left: 40px;
+  width: 35%;
+}
+*{
+  box-sizing:border-box;
+}
+.Feature{
+
+    max-width: 100%;
+    margin: auto;
+    overflow: auto;
+  background-color: #4f8a8b;
+}
+.third{
+  font-size: 65px;
+  font-weight:bold;
+}
+.gallery{
+  margin: 5px;
+  float: left;
+  width: 32%;
+}
+h3{
+  padding: 10px;
+  font-size: 40px;
+}
+.gallery img{
+  width: 30%;
+  height: auto;
+}
+.dis1{
+  padding: 20px;
+  text-align: center;
+  font-size: 30px;
+}
+.Head{
+  font-size: 65px;
+  font-weight: bold;
+}
+.dis2{
+  padding: 20px;
+  text-align: center;
+  font-size: 30px;
+}
+.go{
+  font-size: 70px;
+  background-color: #fa7d09;
+}
+.Bottom-container{
+  position: relative;
+  background-color: #3b6978;
+  padding: 50px 0 20px;
+  font-size: 30PX;
+}
+.copyright{
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0px;
+  font-size: 20PX;
+}
+.footer-link{
+  color: white;
+  margin: 10PX 20PX;
+}
+.footer-link:hover{
+  background: skyblue;
+  color: orange;
+}
+.ADD{
+  padding-top: 70PX;
+  color: white;
+}
+.email{
+  color: #fa7d09;
+  
+}
+.email:hover{
+  background: skyblue;
+  color: orange;
+}
+.BL{
+  position: absolute;
+  height: 450PX;
+  margin-left: -800px;
+  margin-top: -70px;
+}
+.dis3{
+  font-size: 45px;
+  font-style: italic;
+  width: 60%;
+  margin-left: 500px;
+}
+.ceo{
+  height: 300px;
+}
+.last{
+  padding: 100px 0;
+  background-color: #a6dcef;
+  margin: 100px 0;
+}
+.name{
+  font-size: 38px;
+  font-weight: bold;
+  font-style: italic;
+}
+h2{
+  font-size: 40px;
+  font-weight: lighter;
+
+}
